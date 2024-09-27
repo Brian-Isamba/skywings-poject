@@ -1,0 +1,1 @@
+Skywings is an online flight booking platform that lets you book flights at ease.
